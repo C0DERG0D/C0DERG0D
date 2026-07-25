@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am currently working on some game making side projects<br>- I'm currently learning how to hack and play capture the flag games better<br>- Fun fact about me is that I love cooking, working out and sleeping
+- I am currently working on some game making side projects<br>- I'm currently learning how to hack and play capture the flag games better<br>- Fun fact about me is that I love cooking, working out and sleeping<br>- I haven't had much time to code recently, so I'm getting back into the motion of things!
 
 
 ## 🌐 Socials:
